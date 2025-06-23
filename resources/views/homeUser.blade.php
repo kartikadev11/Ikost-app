@@ -15,7 +15,7 @@
                     <li><a class="nav-link scrollto active" href="/">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto " href="/ikost/daftarkos">Kos</a></li>
-                    <li><a class="nav-link scrollto " href="/ikost/rekomendasi">Recomendation System</a></li>
+                    <li><a class="nav-link scrollto " href="/ikost/rekomendasi">Rekomendasi Kos</a></li>
                 </ul>
 
             </nav><!-- .navbar -->
@@ -29,7 +29,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                    <h1 data-aos="fade-up">Bingung mau cari KOS dimana? Cari disini aja</h1>
+                    <h1 data-aos="fade-up">Bingung mau cari KOS dimana? Cari disini aja!</h1>
                     <h2 data-aos="fade-up" data-aos-delay="400">Cari kos lebih mudah, tanpa harus keliling kota</h2>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">

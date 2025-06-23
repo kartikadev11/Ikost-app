@@ -29,12 +29,12 @@
             <!-- Default box -->
             <div class="card">
               <div class="card-header">
-                <h3 class="card-title">Selamat Datang di Website Pemilihan Tempat Kost</h3>
+                <h3 class="card-title">Selamat Datang di Dashboard Admin IKost</h3>
               </div>
               <div class="card-body">
                 <h5> SPK Pemilihan Tempat Kos adalah sistem keputusan untuk memilih tempat kost terbaik yang sesuai dengan kebutuhan calon penyewa kost.</h5>
                   <h5> Di website ini sendiri memiliki beberapa fitur yaitu : </h5>
-                  <p> 1. Daftar Kos 
+                  <p> 1. Daftar Kos
                    <br>2. Kriteria
                    <br>3. Alternatif
                    <br>4. Perhitungan
